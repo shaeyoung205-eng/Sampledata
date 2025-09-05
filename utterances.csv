@@ -1,0 +1,31 @@
+id,utterances,pos_neg,pos_neg_neural
+0,Just got the job—feeling amazing!,positive,positive
+1,"Your help made my day, thank you!",positive,positive
+2,The update is smooth and super fast.,positive,positive
+3,Dinner was delicious and the service was lovely.,positive,positive
+4,That playlist absolutely slaps.,positive,positive
+5,Our team nailed the presentation today.,positive,positive
+6,I love how intuitive this app feels.,positive,positive
+7,Woke up energized and ready to go!,positive,positive
+8,The packaging was neat and eco-friendly.,positive,positive
+9,This camera takes stunning photos.,positive,positive
+10,Customer support never replied and I'm frustrated.,negative,negative
+11,The battery dies way too quickly.,negative,negative
+12,That joke was insensitive and hurtful.,negative,negative
+13,Shipping was late and the box was damaged.,negative,negative
+14,This chair is wobbly and uncomfortable.,negative,negative
+15,The UI is confusing and slow.,negative,negative
+16,I'm disappointed with the quality control.,negative,negative
+17,The movie dragged and I almost fell asleep.,negative,negative
+18,This place smells weird and looks dirty.,negative,negative
+19,It keeps crashing right after login.,negative,negative
+20,The meeting starts at 3 PM.,negative,neutral
+21,I’ll be traveling next week.,negative,neutral
+22,We received the file you sent.,negative,neutral
+23,The temperature dropped five degrees overnight.,negative,neutral
+24,The package was left at the front desk.,negative,neutral
+25,I switched to dark mode yesterday.,negative,neutral
+26,The article was published on Monday.,negative,neutral
+27,Your order number is 54231.,negative,neutral
+28,They moved the event to Room B.,negative,neutral
+29,The form has three required fields.,negative,neutral
