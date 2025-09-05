@@ -1,0 +1,31 @@
+text,pos_neg,pos_neg_neural
+Just got the job—feeling amazing!,positive,positive
+"Your help made my day, thank you!",positive,positive
+The update is smooth and super fast.,positive,positive
+Dinner was delicious and the service was lovely.,positive,positive
+That playlist absolutely slaps.,positive,positive
+Our team nailed the presentation today.,positive,positive
+I love how intuitive this app feels.,positive,positive
+Woke up energized and ready to go!,positive,positive
+The packaging was neat and eco-friendly.,positive,positive
+This camera takes stunning photos.,positive,positive
+Customer support never replied and I'm frustrated.,negative,negative
+The battery dies way too quickly.,negative,negative
+That joke was insensitive and hurtful.,negative,negative
+Shipping was late and the box was damaged.,negative,negative
+This chair is wobbly and uncomfortable.,negative,negative
+The UI is confusing and slow.,negative,negative
+I'm disappointed with the quality control.,negative,negative
+The movie dragged and I almost fell asleep.,negative,negative
+This place smells weird and looks dirty.,negative,negative
+It keeps crashing right after login.,negative,negative
+The meeting starts at 3 PM.,negative,neutral
+I’ll be traveling next week.,negative,neutral
+We received the file you sent.,negative,neutral
+The temperature dropped five degrees overnight.,negative,neutral
+The package was left at the front desk.,negative,neutral
+I switched to dark mode yesterday.,negative,neutral
+The article was published on Monday.,negative,neutral
+Your order number is 54231.,negative,neutral
+They moved the event to Room B.,negative,neutral
+The form has three required fields.,negative,neutral
